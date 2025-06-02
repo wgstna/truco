@@ -46,6 +46,7 @@ Accuracy: 0.9351
 
 
 ### 4. Game Simulations Using Tree Search
+
 - Implemented Monte Carlo Tree Search (MCTS) for decision making
 - Currently working on Information Set MCTS (ISMCTS) to incorporate hidden information more effectively
 - Evaluation of simulation results is in progress
@@ -53,7 +54,7 @@ Accuracy: 0.9351
 ## Directory Structure
 
 ```
-rl_truco_/
+_thesis_/
 ├── game_sim/
 │   ├── mcts.py
 │   └── truco_sim.ipynb
@@ -79,5 +80,7 @@ This project was developed as part of my undergraduate thesis in Artificial Inte
 Thesis Supervisor: Prof. Dr. Johannes Fürnkranz - Head of Computational Data Analytics Group at JKU
 
 ## Author
+
 Agostina Vidal Villanueva
+
 Visit my website: [agostinavidalvillanueva.com](https://agostinavidalvillanueva.com)
