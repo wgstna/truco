@@ -77,6 +77,8 @@ _thesis_/
 ## Academic Context
 
 This project was developed as part of my undergraduate thesis in Artificial Intelligence at Johannes Kepler University Linz (JKU). It investigates how game mechanics, bluffing, and probabilistic reasoning can be modeled using supervised learning and search-based planning in imperfect information games.
+
+
 Thesis Supervisor: Prof. Dr. Johannes Fürnkranz - Head of Computational Data Analytics Group at JKU
 
 ## Author
