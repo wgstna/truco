@@ -49,7 +49,11 @@ Accuracy: 0.9351
 
 - Implemented Monte Carlo Tree Search (MCTS) for decision making
 - Currently working on Information Set MCTS (ISMCTS) to incorporate hidden information more effectively
-- Evaluation of simulation results is in progress
+- Evaluation of results was done through 100 games where each algorithm had 500 simulations
+  
+**Results:**
+
+![sample_chat](game_sim/mcts_vs_ismcts_results_500_simulations.png)
 
 ## Directory Structure
 
@@ -57,6 +61,7 @@ Accuracy: 0.9351
 _thesis_/
 ├── game_sim/
 │   ├── mcts.py
+│   ├── mcts_vs_ismcts_results_500_simulations.png
 │   └── truco_sim.ipynb
 ├── hand_eval/
 │   ├── dataset_creation.py
@@ -76,10 +81,10 @@ _thesis_/
 ```
 ## Academic Context
 
-This project was developed as part of my undergraduate thesis in Artificial Intelligence at Johannes Kepler University Linz (JKU). It investigates how game mechanics, bluffing, and probabilistic reasoning can be modeled using supervised learning and search-based planning in imperfect information games.
+This project was developed as part of my undergraduate thesis in Artificial Intelligence at Johannes Kepler University Linz (JKU). It investigates how game mechanics, bluffing, and probabilistic reasoning can be modeled using supervised learning and search-based planning in imperfect information games. 
 
 
-Thesis Supervisor: Prof. Dr. Johannes Fürnkranz - Head of Computational Data Analytics Group at JKU
+Thesis Supervisor: Prof. Dr. Johannes Fürnkranz - Head of Computational Data Analytics Department at JKU
 
 ## Author
 
